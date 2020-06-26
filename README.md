@@ -20,7 +20,7 @@ https://jillwesterfelhaus.github.io/Portfolio2/
 
 
 
-![home page portfolio](assets/images/home%20page%20portfolio.png)
+![home page portfolio](images/home%20page%20portfolio.png)
 
 ## Credits
 
