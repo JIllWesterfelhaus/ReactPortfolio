@@ -1,14 +1,20 @@
-import React from 'react';
-import './index.css';
-import Header from "./components/Header";
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Navtabs from "./components/Navtabs";
+import Home from "./pages/Home";
+import AboutMe from "./pages/AboutMe";
+import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
-    <div className="App">
-      <header className="Header">
-        
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Navtabs />
+        <Route exact path="/home" component={Home} />
+        <Route exact path="/about" component={AboutMe} />
+        <Route exact path="/portfolio" component={Portfolio} />
+      </div>
+    </Router>
   );
 }
 
