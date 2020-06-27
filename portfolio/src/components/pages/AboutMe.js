@@ -1,8 +1,13 @@
 import React from "react";
+import { ReactComponent as Headshot } from "./images/JW headshot.png";
  
 function About() {
     return (
-      <div>
+      
+        <div class="container">
+        <div class="row d-flex justify-content-center"> 
+        return <img src={headshot} alt="Photo of Jill Westerfelhaus" />;
+        </div>
         <h1>About Me</h1>
         <div class="container aboutMe">
         <div class="row d-flex justify-content-center"> 
