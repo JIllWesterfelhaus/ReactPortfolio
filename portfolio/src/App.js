@@ -4,7 +4,7 @@ import Navtabs from "./components/Navtabs";
 import Home from "./components/pages/Home";
 import AboutMe from "./components/pages/AboutMe";
 import Portfolio from "./components/pages/Portfolio";
-import Footer from "/components/Footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
         <Route exact path="/home" component={Home} />
         <Route exact path="/about" component={AboutMe} />
         <Route exact path="/portfolio" component={Portfolio} />
+        <Footer/>
       </div>
     </Router>
   );
