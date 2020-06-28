@@ -28,4 +28,6 @@ I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurrecci
 
 I would also like to thank Jules Lazar and Mohmed Vaid for the awesome work they did on the My Pantry app.
 
+
+
 I would like to thank my tutor, Daniel Masters, for his patience and persistence while working with me during the coding bootcamp. 
