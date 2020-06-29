@@ -19,8 +19,6 @@ This project is in the public domain per https://unlicense.org/.
 https://pacific-spire-73192.herokuapp.com/
 
 
-![home page portfolio](components/../portfolio/src/images/home%20page%20portfolio.png)
-
 ## Credits
 
 I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
