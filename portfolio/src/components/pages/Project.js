@@ -1,16 +1,31 @@
 import React from "react";
 
-// Whenever we try to render an array containing JSX, React knows to render each JSX element separately
 function Project(props) {
   return (
-    <ul className="project-group">
-      {props.project.map(item => (
-        <li className="project-group-item" key={item.id}>
-          {item.name}
-        </li>
-      ))}
-    </ul>
+    <div className="card">
+      <div className="img-container">
+        <img alt={props.name} src={props.image} />
+      </div>
+      <div className="content">
+        <ul>
+          <li>
+            <strong>Title:</strong> {props.title}
+          </li>
+          <li>
+            <strong>Description:</strong> {props.description}
+          </li>
+          <li>
+            <strong>Link to App:</strong> {props.linkToApp}
+          </li>
+          <li>
+            <strong>Link to GitHub repo:</strong> {props.linkToRepo}
+          </li>
+        </ul>
+      </div>
+      
+    </div>
   );
 }
 
 export default Project;
+

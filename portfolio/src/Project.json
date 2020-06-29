@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Group Project: My Pantry",
+      "image": "./images/My Pantry.png",
+      "description": "My Pantry. App for finding recipes based on ingredients the user already has. Group project with Jules Lazar and Mohmed Vaid.",
+      "linkToApp": "http://shielded-harbor-38774.herokuapp.com/",
+      "linkToRepo": "https://github.com/Hot-Fixers/Project2"
+    },
+    {
+        "id": 2,
+        "title": "Group Project: Flyte!",
+        "image": "./images/Flyte.png",
+        "description": "Flyte! Stock news and price app. Group project with Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion.",
+        "linkToApp": "https://kyleres.github.io/Finance_App/",
+        "linkToRepo": "https://github.com/kyleres/Finance_App"
+      },
+      {
+        "id": 3,
+        "title": "Eat Da Burger!",
+        "image": "./images/burger.png",
+        "description": "Eat Da Burger! App that tracks burgers the user has eaten and wants to try.",
+        "linkToApp": "https://limitless-escarpment-12108.herokuapp.com/",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/burger"
+      },
+      {
+        "id": 4,
+        "title": "Budget Tracker",
+        "image": "./images/Budget Tracker.png",
+        "description": "Budget Tracker.  App that allows user to input and save transactions whether or not Internet service is available.",
+        "linkToApp": "https://mighty-brushlands-36668.herokuapp.com/",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/BudgetTracker"
+      },
+      {
+        "id": 5,
+        "title": "Note Taker",
+        "image": "./images/Note Taker.png",
+        "description": "Note Taker.  App that allows user to create and delete notes.",
+        "linkToApp": "https://warm-mesa-71513.herokuapp.com/",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/NoteTaker"
+      },
+      {
+        "id": 6,
+        "title": "Team Roster",
+        "image": "./images/Team Roster.png",
+        "description": "Team Roster.  Creates and displays current information about a work team.",
+        "linkToApp": "ww.youtube.com/watch?v=JygOPosMV5o&feature=youtu.be",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/EmployeeSummary2"
+      },
+    }
