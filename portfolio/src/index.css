@@ -5,6 +5,11 @@ body {background-color: #f6cabc;}
   margin-bottom: 20px;
 }
 
+.card {
+  height: 50%;
+  width: 50%
+}
+
  h1 {
    font-size: 5vw;
    display: block;

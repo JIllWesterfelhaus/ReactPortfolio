@@ -3,7 +3,7 @@ import React from "react";
 function Footer () {
     return (
         <footer className="footer">
-            <span>Copyright Jill Westerfelhaus 2020</span>
+            <span>Jill Westerfelhaus 2020</span>
         </footer>
     );
 }
