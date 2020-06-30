@@ -8,6 +8,7 @@ function About() {
         <h1>About Me</h1>
         <div className="container aboutMe">
         <img className="rounded-circle" style={{width: "25%"}} src={Headshot} alt="Jill Westerfelhaus" />
+        
         <div className="row d-flex justify-content-center"> 
     <p>I am currently a student at Northwestern University's Coding and Full Stack Web Development bootcamp. What I like about development is the moment when you click a button and a real working webpage that you made pops up. It reminds me of my days working in darkroom photography, watching an image come up in the tray of developer, under the glow of a safelight.</p>
        <p>I have worked as a darkroom photo lab tech, and now I am studying web development. In between, I was a Licensed Clinical Professional Counselor, conducting assessments on people with severe mental illness. I bring skills in listening and working with people to web development, as well as the aesthetics and technology of photography. I am excited to bring all my skills and knowledge to this new field. </p>
