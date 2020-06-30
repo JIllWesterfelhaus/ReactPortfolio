@@ -7,8 +7,8 @@ function About() {
         <div>
         <h1>About Me</h1>
         <div className="container aboutMe">
-            <div clasName="Headshot">
-        <img className="rounded-circle" style={{width: "25%"}} src={Headshot} alt="Jill Westerfelhaus" />
+            <div className="Headshot">
+        <img className="rounded-circle" style={{width: "35%"}} src={Headshot} alt="Jill Westerfelhaus" />
         </div>
         <div className="row d-flex justify-content-center"> 
     <p>I am currently a student at Northwestern University's Coding and Full Stack Web Development bootcamp. What I like about development is the moment when you click a button and a real working webpage that you made pops up. It reminds me of my days working in darkroom photography, watching an image come up in the tray of developer, under the glow of a safelight.</p>
