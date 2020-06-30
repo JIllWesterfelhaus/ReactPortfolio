@@ -22,7 +22,6 @@ function Project(props) {
           </li>
         </ul>
       </div>
-      
     </div>
   );
 }
