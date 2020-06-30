@@ -3,7 +3,7 @@ import Headshot from "../JW headshot.png";
  
 function Home() {
     return (
-      <div>
+      <div className="homepage">
         <h1>Hi!</h1>
         
         <div classname="Headshot"style={{display: "flex", justifyContent: "center"}}>
@@ -14,6 +14,7 @@ function Home() {
     <h5 class="text-center">I'm learning Full Stack Web Development.</h5>
     <h5 class="text-center">Please take a look around and see what I'm learning!</h5>
       </div>
+      
       
     );
   }
