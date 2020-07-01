@@ -3,9 +3,9 @@ import React from "react";
 function Project(props) {
   return (
     <div className="projects">
-    <div className="card">
+    <div className="container">
       
-        <img alt={props.title} src={props.image} />
+        <img className="card" alt={props.title} src={props.image} />
       
     </div>
       <div className="content">
