@@ -23,6 +23,8 @@ https://pacific-spire-73192.herokuapp.com/
 
 ## Credits
 
+I would like to thank Nick Elliot, my instructor; and Chris McLaughlin, TA, for helping me with the code.
+
 I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
 
 I would also like to thank Jules Lazar and Mohmed Vaid for the awesome work they did on the My Pantry app.
