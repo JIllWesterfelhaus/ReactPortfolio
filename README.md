@@ -18,7 +18,7 @@ This project is in the public domain per https://unlicense.org/.
 
 https://pacific-spire-73192.herokuapp.com/
 
-![home page portfolio](images/home%20page%20portfolio.png)
+![home page portfolio](./portfolio/public/images/home%20page%20portfolio.png)
 
 
 ## Credits
