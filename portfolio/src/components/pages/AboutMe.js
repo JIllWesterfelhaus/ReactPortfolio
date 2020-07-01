@@ -5,7 +5,7 @@ function About() {
     return (
        
         <div>
-        <h1>About Me</h1>
+        <h2>About Me</h2>
         <div className="aboutMe">
             <div className="Headshot">
         <img className="rounded-circle" style={{width: "25%"}} src={Headshot} alt="Jill Westerfelhaus" />

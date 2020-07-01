@@ -13,7 +13,7 @@ body {background-color: #f6cabc;}
   justify-content: center;
   border: 1px solid;
   padding: 10px;
-  box-shadow: 5px 10px 8px #813c3c;
+  box-shadow: 5px 10px 8px #8b4b4b;
 }
 .container {
   display: flex;
@@ -34,9 +34,15 @@ body {background-color: #f6cabc;}
    font-size: 5vw;
    display: block;
    background-color:#f6cabc;
-   padding: 5px;
    text-align: center;
   
+}
+
+h2 {
+  display: block;
+  background-color:#f6cabc;
+  text-align: center;
+
 }
 
 h3 {
@@ -69,6 +75,7 @@ padding-right: 20%;
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .homepage {
