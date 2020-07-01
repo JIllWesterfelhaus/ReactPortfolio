@@ -6,7 +6,7 @@ function About() {
        
         <div>
         <h1>About Me</h1>
-        <div className="container-aboutMe">
+        <div className="aboutMe">
             <div className="Headshot">
         <img className="rounded-circle" style={{width: "25%"}} src={Headshot} alt="Jill Westerfelhaus" />
         </div>
