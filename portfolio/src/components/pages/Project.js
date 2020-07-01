@@ -11,16 +11,16 @@ function Project(props) {
       <div className="content">
         <ul style={{ listStyleType: "none"}}>
           <li>
-            <strong>Title:</strong> {props.title}
+            <strong>{props.title}</strong>
           </li>
           <li>
-            <strong>Description:</strong> {props.description}
+            {props.description}
           </li>
           <li>
             <a href={props.linkToApp}>Link to App</a>
           </li>
           <li>
-            <a href={props.linkToRepo}>Link to Repo</a>
+            <a href={props.linkToRepo}>Link to Git Hub Repo</a>
           </li>
         </ul>
      </div>
