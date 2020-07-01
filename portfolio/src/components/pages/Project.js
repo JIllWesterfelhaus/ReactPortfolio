@@ -9,7 +9,7 @@ function Project(props) {
       
     </div>
       <div className="content">
-        <ul>
+        <ul style={{ listStyleType: "none"}}>
           <li>
             <strong>Title:</strong> {props.title}
           </li>
