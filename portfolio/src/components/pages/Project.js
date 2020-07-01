@@ -17,7 +17,7 @@ function Project(props) {
             <strong>Description:</strong> {props.description}
           </li>
           <li>
-            <strong>Link to App:</strong> {props.linkToApp}
+            <strong>Link To App:</strong> {props.linkToApp}
           </li>
           <li>
             <strong>Link to GitHub repo:</strong> {props.linkToRepo}
