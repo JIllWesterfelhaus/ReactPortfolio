@@ -25,6 +25,7 @@ function Project(props) {
         </ul>
      </div>
     </div>
+    
   )
 }
 
