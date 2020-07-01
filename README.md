@@ -23,7 +23,7 @@ https://pacific-spire-73192.herokuapp.com/
 
 ## Credits
 
-I would like to thank Nick Elliot, my instructor; and Chris McLaughlin, TA, for helping me with the code.
+I would like to thank Nick Elliot, my instructor; and Chris McLaughlin, TA, for helping me with the code.  I also want to thank Alex Bailon and Jee Zhou for helping me create clickable links on the portfolio page. 
 
 I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
 
