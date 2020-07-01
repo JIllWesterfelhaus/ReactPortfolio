@@ -2,10 +2,12 @@ import React from "react";
 
 function Project(props) {
   return (
+    <div className="projects">
     <div className="card">
-      <div className="img-container">
+      
         <img alt={props.title} src={props.image} />
-      </div>
+      
+    </div>
       <div className="content">
         <ul>
           <li>
@@ -21,9 +23,9 @@ function Project(props) {
             <strong>Link to GitHub repo:</strong> {props.linkToRepo}
           </li>
         </ul>
-      </div>
+     </div>
     </div>
-  );
+  )
 }
 
 export default Project;
