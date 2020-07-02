@@ -3,7 +3,7 @@
 This is an assignment for Northwestern University Coding Bootcamp. It consists of a revised and updated portfolio done with Reactjs.
 
 ## Motivation
-The purpose of this project is to update professional Materials, show recent work, create an app with React, and build towards becoming employer competitive.
+The purpose of this project is to update professional materials, show recent work, create an app with React, and build towards becoming employer competitive.
 
 ## Build Status
 This project is complete.
