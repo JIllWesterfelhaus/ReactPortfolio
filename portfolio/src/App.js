@@ -13,6 +13,7 @@ function App() {
       <div>
         <Navtabs />
         <Header/>
+        <Route exact path="/" component={Home} />
         <Route exact path="/home" component={Home} />
         <Route exact path="/about" component={AboutMe} />
         <Route exact path="/portfolio" component={Portfolio} />
