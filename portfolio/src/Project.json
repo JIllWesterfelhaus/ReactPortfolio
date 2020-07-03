@@ -43,8 +43,8 @@
         "id": 6,
         "title": "Team Roster",
         "image": "./images/Team Roster.png",
-        "description": "Team Roster.  Creates and displays current information about a work team.",
-        "linkToApp": "ww.youtube.com/watch?v=JygOPosMV5o&feature=youtu.be",
+        "description": "Team Roster.  Creates and displays current information about a work team.  App generates HTML in Node. Click on Link to App to see demonstration video.",
+        "linkToApp": "https://youtu.be/JygOPosMV5o",
         "linkToRepo": "https://github.com/JIllWesterfelhaus/EmployeeSummary2"
       }
 ]
