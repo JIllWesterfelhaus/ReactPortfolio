@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JIllWesterfelhaus/ReactPortfolio/static/css/main.2ec6ab96.chunk.css",
-    "main.js": "/JIllWesterfelhaus/ReactPortfolio/static/js/main.d149f010.chunk.js",
-    "main.js.map": "/JIllWesterfelhaus/ReactPortfolio/static/js/main.d149f010.chunk.js.map",
-    "runtime-main.js": "/JIllWesterfelhaus/ReactPortfolio/static/js/runtime-main.a9b4590a.js",
-    "runtime-main.js.map": "/JIllWesterfelhaus/ReactPortfolio/static/js/runtime-main.a9b4590a.js.map",
-    "static/js/2.d0254ae4.chunk.js": "/JIllWesterfelhaus/ReactPortfolio/static/js/2.d0254ae4.chunk.js",
-    "static/js/2.d0254ae4.chunk.js.map": "/JIllWesterfelhaus/ReactPortfolio/static/js/2.d0254ae4.chunk.js.map",
-    "index.html": "/JIllWesterfelhaus/ReactPortfolio/index.html",
-    "precache-manifest.acee1bf27caedff1d7b9db6a709e983b.js": "/JIllWesterfelhaus/ReactPortfolio/precache-manifest.acee1bf27caedff1d7b9db6a709e983b.js",
-    "service-worker.js": "/JIllWesterfelhaus/ReactPortfolio/service-worker.js",
-    "static/css/main.2ec6ab96.chunk.css.map": "/JIllWesterfelhaus/ReactPortfolio/static/css/main.2ec6ab96.chunk.css.map",
-    "static/js/2.d0254ae4.chunk.js.LICENSE.txt": "/JIllWesterfelhaus/ReactPortfolio/static/js/2.d0254ae4.chunk.js.LICENSE.txt",
-    "static/media/JW headshot.png": "/JIllWesterfelhaus/ReactPortfolio/static/media/JW headshot.5d307002.png"
+    "main.css": "/ReactPortfolio/static/css/main.2ec6ab96.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.c8f8b5e4.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c8f8b5e4.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.ef1ed23a.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.ef1ed23a.js.map",
+    "static/js/2.4b215f49.chunk.js": "/ReactPortfolio/static/js/2.4b215f49.chunk.js",
+    "static/js/2.4b215f49.chunk.js.map": "/ReactPortfolio/static/js/2.4b215f49.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.934de27a40d4f1cf0bcd55bbf0be4323.js": "/ReactPortfolio/precache-manifest.934de27a40d4f1cf0bcd55bbf0be4323.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/main.2ec6ab96.chunk.css.map": "/ReactPortfolio/static/css/main.2ec6ab96.chunk.css.map",
+    "static/js/2.4b215f49.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.4b215f49.chunk.js.LICENSE.txt",
+    "static/media/JW headshot.png": "/ReactPortfolio/static/media/JW headshot.5d307002.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9b4590a.js",
-    "static/js/2.d0254ae4.chunk.js",
+    "static/js/runtime-main.ef1ed23a.js",
+    "static/js/2.4b215f49.chunk.js",
     "static/css/main.2ec6ab96.chunk.css",
-    "static/js/main.d149f010.chunk.js"
+    "static/js/main.c8f8b5e4.chunk.js"
   ]
 }
